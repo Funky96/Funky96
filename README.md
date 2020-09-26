@@ -5,9 +5,11 @@
 ![bg][banner]
 <!-- https://images.cooltext.com/5466627.png-->
 
- ~~PRIMARIA ~~	
- ~~SECUNDARIA  ~~	
-~~PREPARATORIA ~~	
+*~~ PRIMARIA  ~~*
+* ~~SECUNDARIA ~~*
+*~~PREPARATORIA ~~*
+
+
 **_Actualmente un estudiante Universitario con muchas cosas por aprender._**
 
 
