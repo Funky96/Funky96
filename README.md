@@ -1,5 +1,7 @@
 ### Bienvenidos compañeros 👋
 
+[![bg][banner]][website]
+
 **Actualmente un estudiante Universitario con muchas cosas por aprender**
 
 **Mi horario de clases es el siguiente:**
