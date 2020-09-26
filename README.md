@@ -6,8 +6,9 @@
 <!-- https://images.cooltext.com/5466627.png-->
 
 ~~PRIMARIA~~
-~~SECUNDARIA ~~
-*~~PREPARATORIA ~~*
+~~SECUNDARIA~~
+~~PREPARATORIA~~
+
 
 
 **_Actualmente un estudiante Universitario con muchas cosas por aprender._**
