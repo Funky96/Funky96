@@ -5,8 +5,8 @@
 ![bg][banner]
 <!-- https://images.cooltext.com/5466627.png-->
 
-*~~ PRIMARIA  ~~*
-* ~~SECUNDARIA ~~*
+~~PRIMARIA~~
+~~SECUNDARIA ~~*
 *~~PREPARATORIA ~~*
 
 
