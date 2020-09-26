@@ -1,8 +1,8 @@
 ### Bienvenidos compañeros 👋
 
-## Actualmente un estudiante Universitario con muchas cosas por aprender
+**Actualmente un estudiante Universitario con muchas cosas por aprender
 
-## Mi horario de clases es el siguiente:
+**Mi horario de clases es el siguiente:
 
 | CLAVE          | MATERIA                          | MAESTRO                        | HORARIO     |
 |----------------|----------------------------------|--------------------------------|-------------|
