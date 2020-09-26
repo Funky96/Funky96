@@ -1,8 +1,8 @@
 ### Bienvenidos compañeros 👋
 
-**Actualmente un estudiante Universitario con muchas cosas por aprender
+**Actualmente un estudiante Universitario con muchas cosas por aprender**
 
-**Mi horario de clases es el siguiente:
+**Mi horario de clases es el siguiente:**
 
 | CLAVE          | MATERIA                          | MAESTRO                        | HORARIO     |
 |----------------|----------------------------------|--------------------------------|-------------|
@@ -13,7 +13,7 @@
 | SCD-1016       | LENGUAJES Y AUTOMATAS            | LUIS ALFONSO GAXIOLA VEGA      | 19:00-20:00 |
 
 
-### Algo de informacion mia.
+**Algo de informacion mia.**
 
 - 🔭Actualmente estoy trabajando en posibles proyectos para mi residencia.
 - 🌱 Actualmente estoy aprendiendo Python.
