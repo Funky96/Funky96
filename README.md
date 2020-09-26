@@ -3,7 +3,7 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466627.png" width="676" height="75" alt="FUTURO INGENIERO" /></a>
 <br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3636837529">Create Your Own Logo</a>
 ![bg][banner]
-
+<!-- https://images.cooltext.com/5466627.png-->
 
 **Actualmente un estudiante Universitario con muchas cosas por aprender**
 
