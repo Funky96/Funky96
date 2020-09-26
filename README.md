@@ -1,8 +1,8 @@
 ### Bienvenidos compañeros 👋
 
-<!--
-**Funky96/Funky96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente un estudiante Universitario con muchas cosas por aprender
 
+## Mi horario de clases es el siguiente:
 
 | CLAVE          | MATERIA                          | MAESTRO                        | HORARIO     |
 |----------------|----------------------------------|--------------------------------|-------------|
@@ -12,14 +12,13 @@
 | SCC-1023 SC7B  | SISTEMAS PROGRAMABLES            | RENE SOLIS REYES               | 17:00-18:00 |
 | SCD-1016       | LENGUAJES Y AUTOMATAS            | LUIS ALFONSO GAXIOLA VEGA      | 19:00-20:00 |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Algo de informacion mia.
+
+- 🔭Actualmente estoy trabajando en posibles proyectos para mi residencia.
+- 🌱 Actualmente estoy aprendiendo Python.
+- 🤔 Busco ayuda de recomendaciones de proyectos.
+- 💬 Pueden preguntarme lo que sea, dispuesto ayudar si se las respuestas.
+- 📫 Me pueden contactar en erik.osorio16@tectijuana.edu.mx
+
+
