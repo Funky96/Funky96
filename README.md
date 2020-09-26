@@ -15,9 +15,9 @@
 
 **Algo de informacion mia.**
 
-- 🔭Actualmente estoy trabajando en posibles proyectos para mi residencia.
-- 🌱 Actualmente estoy aprendiendo Python.
-- 🤔 Busco ayuda de recomendaciones de proyectos.
+- 💻 Actualmente estoy trabajando en posibles proyectos para mi residencia.
+- 🧠 Actualmente estoy aprendiendo Python.
+- 💜 Busco ayuda de recomendaciones de proyectos.
 - 💬 Pueden preguntarme lo que sea, dispuesto ayudar si se las respuestas.
 - 📫 Me pueden contactar en erik.osorio16@tectijuana.edu.mx
 
