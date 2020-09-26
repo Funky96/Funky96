@@ -5,7 +5,8 @@
 ![bg][banner]
 <!-- https://images.cooltext.com/5466627.png-->
 
-**Actualmente un estudiante Universitario con muchas cosas por aprender**
+*Actualmente un estudiante Universitario con muchas cosas por aprender.*
+
 
 **Mi horario de clases es el siguiente:**
 
