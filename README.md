@@ -6,7 +6,7 @@
 <!-- https://images.cooltext.com/5466627.png-->
 
 ~~PRIMARIA~~
-~~SECUNDARIA ~~*
+~~SECUNDARIA ~~
 *~~PREPARATORIA ~~*
 
 
