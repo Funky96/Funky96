@@ -23,4 +23,5 @@
 - 💬 Pueden preguntarme lo que sea, dispuesto ayudar si se las respuestas.
 - 📫 Me pueden contactar en erik.osorio16@tectijuana.edu.mx
 
+[banner]: https://github.com/Funky96/Funky96/blob/master/banner.png
 
