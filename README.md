@@ -5,8 +5,10 @@
 ![bg][banner]
 <!-- https://images.cooltext.com/5466627.png-->
 
- -_s cursva _
-*Actualmente un estudiante Universitario con muchas cosas por aprender.*
+ ~~PRIMARIA ~~	
+ ~~SECUNDARIA  ~~	
+~~PREPARATORIA ~~	
+**_Actualmente un estudiante Universitario con muchas cosas por aprender._**
 
 
 **Mi horario de clases es el siguiente:**
