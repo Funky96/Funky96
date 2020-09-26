@@ -1,6 +1,6 @@
 ### Bienvenidos compañeros 👋
 
-[![bg][banner]][website]
+![bg][banner]
 
 **Actualmente un estudiante Universitario con muchas cosas por aprender**
 
