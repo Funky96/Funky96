@@ -5,7 +5,7 @@
 ![bg][banner]
 <!-- https://images.cooltext.com/5466627.png-->
 
- -es cursva -
+ -_s cursva _
 *Actualmente un estudiante Universitario con muchas cosas por aprender.*
 
 
